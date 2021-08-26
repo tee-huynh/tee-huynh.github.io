@@ -6742,20 +6742,20 @@ div.wpforms-container-full {
 }
 
 .carousel-item--1 .carousel-item__image{
-  	background-image: url('http://tee-huynh.com/wp-content/uploads/2020/08/spending.png');
+  	background-image: url('assets/spending.png');
   	background-size: cover;
 	background-position: center; /* Center the image */
 }
 
 
 .carousel-item--2 .carousel-item__image{
-  	background-image: url('http://tee-huynh.com/wp-content/uploads/2020/08/bio.png');
+  	background-image: url('assets/bio.png');
   	background-size: cover;
 	background-position: center; /* Center the image */
 }
 
 .carousel-item--3 .carousel-item__image{
-  	background-image: url('http://tee-huynh.com/wp-content/uploads/2020/08/mobile-data.png');
+  	background-image: url('assets/mobile-data.png');
   	background-size: cover;
 	background-position: center; /* Center the image */
 }
@@ -6957,42 +6957,49 @@ transform: translateX(0);
 }
 
 .web_1 { 
-	background-image: url('http://tee-huynh.com/wp-content/uploads/2021/04/Jtuesdays2.png');
+	background-image: url('assets/Jtuesdays2.png');
 	background-size: cover;
 	background-position: center;
 	height: 100px; 
 }
 
 .web_2 { 
-	background-image: url('http://tee-huynh.com/wp-content/uploads/2021/04/LearnFM2.png');
+	background-image: url('assets/LearnFM2.png');
 	background-size: cover;
 	background-position: center;
 	height: 100px; 
 }
 
 .web_3 { 
-	background-image: url('http://tee-huynh.com/wp-content/uploads/2021/04/Living_Library2.png');
+	background-image: url('assets/Living_Library2.png');
 	background-size: cover;
 	background-position: center;
 	height: 100px; 
 }
 
 .web_4 { 
-	background-image: url('http://tee-huynh.com/wp-content/uploads/2021/04/MD_Admissions2.png');
+	background-image: url('assets/MD_Admissions2.png');
 	background-size: cover;
 	background-position: center;
 	height: 100px; 
 }
 
 .web_5 { 
-	background-image: url('http://tee-huynh.com/wp-content/uploads/2021/04/site-covers_CalgaryGuide2.png');
+	background-image: url('assets/site-covers_CalgaryGuide2.png');
 	background-size: cover;
 	background-position: center;
 	height: 100px; 
 }
 
 .web_6 { 
-	background-image: url('http://tee-huynh.com/wp-content/uploads/2021/04/site-covers_Mistreatment2.png');
+	background-image: url('assets/site-covers_Mistreatment2.png');
+	background-size: cover;
+	background-position: center;
+	height: 100px; 
+}
+
+.web_7 { 
+	background-image: url('assets/TypingDuck2.png');
 	background-size: cover;
 	background-position: center;
 	height: 100px; 
